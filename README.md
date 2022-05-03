@@ -1,4 +1,4 @@
-Hi 👋 My name is Leila A.
+Hi 👋 My name is Leila 
 =========================
 
 Web Developer
