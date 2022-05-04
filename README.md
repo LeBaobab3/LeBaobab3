@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🖥️  See my portfolio at [Leila A](http://leila-agger.netlify.app/)
-* 🧠  I'm currently learning Java
+* 🧠  I'm currently learning Java, Javascript, React
 * 🤝  Always open to collaborating on interesting projects
 
 
