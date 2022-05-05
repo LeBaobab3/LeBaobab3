@@ -4,9 +4,9 @@ Hi there 👋 My name is Leila
 Web Developer
 -------------
 
-* 🖥️  See my portfolio at [Leila A](http://leila-agger.netlify.app/)
-* 🧠  I'm currently learning Java, Javascript, React
-* 🤝  Always open to collaborating on interesting projects
+* 🖥️  View my portfolio at [Leila A](http://leila-agger.netlify.app/)
+* 🧠  I'm currently learning Javascript
+
 
 
 ### Socials
