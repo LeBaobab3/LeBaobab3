@@ -1,7 +1,7 @@
 Hi there 👋 My name is Leila 
 ============================
 
-Web Developer
+I'm a full-stack developer
 -------------
 
 * 🖥️  View my portfolio at [Leila A](http://leila-agger.netlify.app/)
