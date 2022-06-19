@@ -1,4 +1,4 @@
-Hi there 👋 My name is Leila 
+Hi 👋 My name is Leila 
 ============================
 
 I'm a full-stack developer
