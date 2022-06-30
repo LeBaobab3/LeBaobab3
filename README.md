@@ -4,7 +4,7 @@ Hi 👋 My name is Leila
 I'm a full-stack developer
 -------------
 
-* 🖥️  View my portfolio at [Leila A](http://leila-agger.netlify.app/)
+
 * 🧠  I'm currently learning MongoDB and React
 
 
