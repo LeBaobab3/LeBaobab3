@@ -13,10 +13,12 @@
 
 ### <div align="center">View my recent work <a href="#">my portfolio site</a> </div>
 
+---
 
-<!-- FEATURED PROJECTS -->
+<br>
+<!-- MY PROJECTS -->
 
-<h2 align="center" color="white">Projects</h2>
+<h2 align="center" color="white">FEATURED Projects</h2>
 <div align="center">
 	<table>
 		<tr>
