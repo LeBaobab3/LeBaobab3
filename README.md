@@ -22,7 +22,7 @@
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">FIELD GUIDE FOR MOST COMMON NORTH AMERICAN BIRDS</h2>
+				<h3 align="center" color="white">BIRD FIELD GUIDE API</h2>
 				<div align="center" > 
 					<a href="https://field-guide-birds.netlify.app/">
 						<img src="https://github.com/LeBaobab3/readme-assets/blob/main/birdguide_AdobeExpress.gif" alt="An app looks up information on the most common North American Birds" />
@@ -39,7 +39,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - </p>
+					<p><strong>JavaScript, CSS3, HTML5, Node, Heroku, MongoDB </strong> Look up interesting facts on common birds </p>
 				</div>
 
 
