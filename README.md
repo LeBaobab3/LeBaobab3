@@ -14,7 +14,33 @@
 ### <div align="center">View my recent work <a href="#">my portfolio site</a> </div>
 
 
+<!-- FEATURED PROJECTS -->
 
+<h2 align="center" color="white">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">FIELD GUIDE FOR MOST COMMON NORTH AMERICAN BIRDS</h2>
+				<div align="center" > 
+					<a href="https://field-guide-birds.netlify.app/">
+						<img src="https://github.com/LeBaobab3/readme-assets/blob/main/birdguide_AdobeExpress.gif" alt="An app looks up information on the most common North American Birds" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='https://github.com/LeBaobab3/bird-app'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="https://field-guide-birds.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - </p>
+				</div>
 
 
 <h3 align="center">Connect with me:</h3>
