@@ -3,10 +3,10 @@
 </div>
 
 <br/>
-<!-- 
+ 
 ### <div align="center"> # </div>
 
-<br> -->
+<br> 
 
 <p align="center">I love using my creativity to bring front and back-end elements together to build websites and applications that work seamlessly. <br/>
 * 🧠  I'm currently learning MongoDB and React </p>
