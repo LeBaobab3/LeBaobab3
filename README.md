@@ -1,8 +1,12 @@
-Hi 👋 My name is Leila 
-============================
+<div align="center">
+<img src="githublogo.png" align="center" style="width: 100%" />
+</div>
 
-I'm a full-stack developer
--------------
+<br/>
+
+### <div align="center">I'm Leila, and I'm a full-stack developer</div>
+
+<br>
 
 
 * 🧠  I'm currently learning MongoDB and React
