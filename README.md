@@ -18,13 +18,13 @@
 <br>
 <!-- MY PROJECTS -->
 
-<h2 align="center" color="white">FEATURED Projects</h2>
+<h2 align="center" color="white">Featured Projects</h2>
 <div align="center">
 	<table>
 		<tr>
 			<!--project 1 -->
 			<td width="50%">
-				<h3 align="center" color="white">BIRD FIELD GUIDE API</h2>
+				<h3 align="center" color="white">A BIRD FIELD GUIDE API</h2>
 				<div align="center" > 
 					<a href="https://field-guide-birds.netlify.app/">
 						<img src="https://github.com/LeBaobab3/readme-assets/blob/main/birdguide_AdobeExpress.gif" alt="An app looks up information on the most common North American Birds" />
