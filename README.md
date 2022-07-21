@@ -38,7 +38,7 @@
 						</a>  
                         <!--live site --> 
 						<a href="https://field-guide-birds.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=#26515e"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=26515e"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5, Node, Heroku, MongoDB </strong> Look up interesting facts on common birds </p>
