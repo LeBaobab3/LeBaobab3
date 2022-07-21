@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">I'm Leila, and I'm a full-stack developer</div>
+### <div align="center">I'm Leila and I'm a full-stack developer</div>
 
 <br>
 
