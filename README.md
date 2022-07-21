@@ -8,7 +8,11 @@
 
 <br>
 
+<p align="center">I love using my creativity to bring front and back-end elements together to build websites and applications that work seamlessly. </p>
 
+### <div align="center">Go to <a href="#">my portfolio site</a> for more information!</div>
+
+<br/>
 * 🧠  I'm currently learning MongoDB and React
 
 
