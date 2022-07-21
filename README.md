@@ -27,7 +27,7 @@
 				<h3 align="center" color="white">A BIRD FIELD GUIDE API</h2>
 				<div align="center" > 
 					<a href="https://field-guide-birds.netlify.app/">
-						<img src="https://github.com/LeBaobab3/readme-assets/blob/main/BirdFieldGuide1.mp4" alt="An app looks up information on the most common North American Birds" />
+						<img src="https://www.canva.com/design/DAFHEuAl6Ts/NUBTH8KUJVe5ELnBJFvkDQ/watch?utm_content=DAFHEuAl6Ts&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="An app looks up information on the most common North American Birds" />
 					</a>
 					<br>
 					<br>
