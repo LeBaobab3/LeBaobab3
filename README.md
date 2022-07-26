@@ -33,7 +33,7 @@
 					<br>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/LeBaobab3/bird-app'>
+						<a href='https://github.com/LeBaobab3/Birds-api'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
